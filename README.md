@@ -1,4 +1,4 @@
-# flutter_application_tapai
+# flutter_application
 
 A new Flutter project.
 
